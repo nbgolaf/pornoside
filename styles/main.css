@@ -1,0 +1,7 @@
+body {
+    background-color: whitesmoke;
+    background-image: url("../images/IMG_1325.jpg");
+    background-size: 30%;   
+    background-repeat: repeat;
+    min-width: 400px;
+}
